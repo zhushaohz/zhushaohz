@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![zhz's github stats](https://github-readme-stats.vercel.app/api?username=zhushaohz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhushaohz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Page Views Count](https://badges.toozhao.com/badges/01EH0VZ6SRYJ658324HGSG0V4E/green.svg)](https://badges.toozhao.com/badges/01EH0VZ6SRYJ658324HGSG0V4E/green.svg "Get your own page views count badge on badges.toozhao.com")
